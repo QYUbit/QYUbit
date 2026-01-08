@@ -1,8 +1,11 @@
-.
+Hi!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=QYUbit&layout=compact&theme=nord)
+I'm a developer from germany.
 
-<!---
-QYUbItx/QYUbItx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm always open to learning new things.
+
+I build mobile apps, web apps, backend systems and other stuff.
+
+What I'm currently working on:
+
+- [Axium](https://github.com/QYUbit/Axium)
